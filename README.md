@@ -6,8 +6,12 @@ After you clone this down
   - `npm start`
 
 ### Expectations
+
 Build a React App that displays *fun events*!
-You will have a 40 minutes to build this application
+
+You will have a 40 minutes to build this application. Whatever you don't finish in the mock assessment, we recommend you practice prior to the final assessment.
+
+![mockup](https://github.com/Tman22/funExample/blob/master/mockup.png)
 
 * Start by creating a component that has a form inside with two inputs labeled
   - Event and Details

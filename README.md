@@ -13,6 +13,10 @@ You will have a 40 minutes to build this application. Whatever you don't finish 
 
 ![mockup](https://github.com/Tman22/funExample/blob/master/mockup.png)
 
+### Iteration 0
+
+Walk through the mockup and outline the components that you will need to buid this application.
+
 * Start by creating a component that has a form inside with two inputs labeled
   - Event and Details
   - Place this form inside the `Event-form` div in the `App` component'

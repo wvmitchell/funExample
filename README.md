@@ -4,12 +4,15 @@ This application was built using `create-react-app`
 After you clone this down
   - `npm install`
   - `npm start`
+  - `npm test`
 
-### Expectations
+### Expectations / Rules
 
 Build a React App that displays *fun events*!
 
 You will have a 40 minutes to build this application. Whatever you don't finish in the mock assessment, we recommend you practice prior to the final assessment.
+
+***When you create a component you MUST also create a test file. You must test as you go.***
 
 ![mockup](https://github.com/Tman22/funExample/blob/master/mockup.png)
 

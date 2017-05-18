@@ -24,8 +24,9 @@ Pull down the [API repo](https://github.com/rrgayhart/fun-parser) and get it up 
 
 ### Iteration 1
 
-** Note: You may not leave any tests that already exist broken **
-** Note: You must add tests for new components **
+**Note: You may not leave any tests that already exist broken**
+
+**Note: You must add tests for new components**
 
 Using fake data, create the ability to submit an event
 

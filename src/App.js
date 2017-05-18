@@ -6,7 +6,6 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <h2>Welcome to FunBox!</h2>
-          <h4>Where Fun comes to life!</h4>
           <div className='Event-form'>
           </div>
         </div>

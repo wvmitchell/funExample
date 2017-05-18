@@ -18,13 +18,29 @@ You will have a 40 minutes to build this application. Whatever you don't finish 
 
 ### Iteration 0
 
-Walk through the mockup and outline the components that you will need to buid this application.
+Walk through the mockup and outline the components that you will need to build this application.
 
-* Start by creating a component that has a form inside with two inputs labeled
-  - Event and Details
-  - Place this form inside the `Event-form` div in the `App` component'
-* Add a button that submits the Fun Event.
-* After clicking the submit button I should see the event populate inside the `Fun-area` class
-  - To make this happen you should add 2 components. An `EventList` & `Event` component
-  - The `EventList` component should receive a list of `events` while an `Event` should receive a single event with an `id`, `event`, `details`.
-* Finally add a button to each `Event` that can delete that specific event.
+Pull down the [API repo](https://github.com/rrgayhart/fun-parser) and get it up and running. Read over the README.
+
+### Iteration 1
+
+** Note: You may not leave any tests that already exist broken **
+** Note: You must add tests for new components **
+
+Using fake data, create the ability to submit an event
+
+And the ability to show all events
+
+### Iteration 2
+
+Replace your fake data with the actual API: https://github.com/rrgayhart/fun-parser
+
+Remember that you will need to run your tests and ensure that they are still hooked up
+
+You can use [Eventbrite](https://www.eventbrite.com/) to come up with fake event content if you want!
+
+### Iteration 3 (extension)
+
+Pair with your evaluator to create a custom endpoint and hit it with your frontend
+
+Example might be - adding a delete endpoint and then giving yourself to the ability to delete an event

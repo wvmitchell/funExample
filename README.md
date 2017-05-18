@@ -14,6 +14,8 @@ You will have a 40 minutes to build this application. Whatever you don't finish 
 
 ***When you create a component you MUST also create a test file. You must test as you go.***
 
+***You may not have an fetch calls in any component other than App.***
+
 ![mockup](https://github.com/Tman22/funExample/blob/master/mockup.png)
 
 ### Iteration 0
@@ -35,6 +37,8 @@ And the ability to show all events
 ### Iteration 2
 
 Replace your fake data with the actual API: https://github.com/rrgayhart/fun-parser
+
+***You may not have an fetch calls in any component other than App.***
 
 Remember that you will need to run your tests and ensure that they are still hooked up
 

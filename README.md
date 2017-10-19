@@ -12,10 +12,6 @@ Build a React App that displays *fun events*!
 
 You will have a 40 minutes to build this application. Whatever you don't finish in the mock assessment, we recommend you practice prior to the final assessment.
 
-***When you create a component you MUST also create a test file. You must test as you go.***
-
-***You may not have an fetch calls in any component other than App.***
-
 ![mockup](https://github.com/Tman22/funExample/blob/master/mockup.png)
 
 ### Iteration 0
@@ -26,25 +22,20 @@ Pull down the [API repo](https://github.com/rrgayhart/fun-parser) and get it up 
 
 ### Iteration 1
 
-**Note: You may not leave any tests that already exist broken**
-
-**Note: You must add tests for new components**
-
-Using fake data, create the ability to submit an event
-
-And the ability to show all events
+Create a controlled form component. 
+As a user types into the input fields the components state should change. 
 
 ### Iteration 2
 
-Replace your fake data with the actual API: https://github.com/rrgayhart/fun-parser
+When the user clicks the submit button the application should make a post request to the API : https://github.com/rrgayhart/fun-parser.
 
 ***You may not have an fetch calls in any component other than App.***
 
-Remember that you will need to run your tests and ensure that they are still hooked up
+### Iteration 3 
 
-You can use [Eventbrite](https://www.eventbrite.com/) to come up with fake event content if you want!
+Once you have the API data display all events on the DOM.
 
-### Iteration 3 (extension)
+### Iteration 4 (extension)
 
 Pair with your evaluator to create a custom endpoint and hit it with your frontend
 

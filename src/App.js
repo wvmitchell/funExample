@@ -5,7 +5,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>Welcome to FunBox!</h2>
+          <h2>Welcome to FunList!</h2>
           <div className='Event-form'>
           </div>
         </div>

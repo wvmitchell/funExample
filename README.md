@@ -29,7 +29,7 @@ As a user types into the input fields the components state should change.
 
 When the user clicks the submit button the application should make a post request to the API : https://github.com/rrgayhart/fun-parser.
 
-***You may not have an fetch calls in any component other than App.***
+***You may not have any fetch calls in any component other than App.***
 
 ### Iteration 3 
 
